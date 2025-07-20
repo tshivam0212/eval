@@ -1,0 +1,4 @@
+lanchain
+streamlit
+langchain_groq
+
