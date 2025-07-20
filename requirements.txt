@@ -6,7 +6,7 @@ langchain_community.vectorstores
 FAISS
 RetrievalQA
 langchain.evaluation.qa
-from langchain_groq 
-from langchain_community.embeddings
+langchain_groq 
+langchain_community.embeddings
 FastEmbedEmbeddings
 
