@@ -1,4 +1,12 @@
-lanchain
 streamlit
-langchain_groq
+langchain_openai
+langchain.text_splitter
+langchain_community.embeddings
+langchain_community.vectorstores
+FAISS
+RetrievalQA
+langchain.evaluation.qa
+from langchain_groq 
+from langchain_community.embeddings
+FastEmbedEmbeddings
 
